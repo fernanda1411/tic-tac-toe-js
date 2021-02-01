@@ -1,4 +1,4 @@
-body {
+#tic-tac-toe {
     /* background: rgb(245, 214, 219); */
     height: 100vh;
     width: 100vw;
@@ -7,7 +7,7 @@ body {
     align-items: center;
 }
 
-.tic-tac-toe {
+#wrapper {
     /* background: rgb(238, 128, 128); */
     height: 50vh;
     width: 50vh;
